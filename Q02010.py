@@ -3,7 +3,7 @@
 #check whether the number 12 is an integer or not
 number = 12
 print(type(number))   # class 'int'
-# print(type(12))      # class 'int'
+# print(type(12))      # class 'vfhgvhgvnb;
 
 #divide 100 by 12 and check whether the number is float or not
 d = 100
