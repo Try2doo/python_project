@@ -18,3 +18,6 @@ x = 1289
 divided = 25
 reminder = x % divided
 print(reminder)                      #14 
+
+
+print("test git")
